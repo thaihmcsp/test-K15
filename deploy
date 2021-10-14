@@ -1,0 +1,3 @@
+mongoAtlas
+  vào cluster => connect => lấy link mongoAtlas sửa vào mongoose.connect
+  thay password, thay tên db

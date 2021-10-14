@@ -1,3 +1,11 @@
 mongoAtlas
   vào cluster => connect => lấy link mongoAtlas sửa vào mongoose.connect
   thay password, thay tên db
+
+  kiểm tra data => browse collection 
+
+
+heroku
+  package.json
+  'start':'node link'       không để nodemon
+  process.env.PORT          để lấy cổng của heroku
